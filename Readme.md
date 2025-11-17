@@ -2,7 +2,7 @@
 
 # 👨‍💻 Hello, I'm Bharu! 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Tech+Enthusiast;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Developer;DevOps+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=devbharu&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
@@ -20,31 +20,34 @@
 const devbharu = {
     location: "India 🇮🇳",
     pronouns: "He/Him",
-    currentRole: "Software Developer",
-    code: ["JavaScript", "Python", "Java", "HTML", "CSS"],
-    askMeAbout: ["Web Development", "Backend APIs", "Cloud Computing", "Problem Solving"],
+    currentRole: "Computer Science Student @ SIT College",
+    code: ["JavaScript", "Python", "C", "C++", "HTML", "CSS"],
+    askMeAbout: ["Web Development", "DevOps", "DSA", "Full Stack Projects"],
     technologies: {
         frontEnd: {
-            js: ["React", "HTML5", "CSS3", "JavaScript"],
-            css: ["Tailwind CSS", "Bootstrap", "Material-UI"]
+            frameworks: ["React.js"],
+            styling: ["Tailwind CSS", "CSS3"],
+            core: ["HTML5", "JavaScript"]
         },
         backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Flask", "Django"],
-            databases: ["MongoDB", "MySQL", "PostgreSQL"]
+            runtime: ["Node.js"],
+            frameworks: ["Express"],
+            databases: ["MongoDB"]
         },
-        devOps: ["Docker", "Git", "GitHub Actions", "AWS"],
-        tools: ["VS Code", "Postman", "Git", "Figma"]
+        languages: ["C", "C++", "Python", "JavaScript"],
+        devOps: ["Docker", "Git", "GitHub Actions"],
+        tools: ["VS Code", "Postman", "Git"]
     },
-    currentFocus: "Building scalable web applications",
-    learning: "System Design & Cloud Architecture",
-    hobbies: ["Gaming 🎮", "Coding ☕", "Tech Blogs 📚"]
+    currentFocus: "Building scalable web applications & mastering DevOps",
+    learning: "DevOps Tools, System Design & Advanced DSA in C++",
+    projects: ["Brianly (Educational Platform)", "Notion Clone", "Task Management Apps"],
+    hobbies: ["Building Projects 💻", "Learning New Tech 🚀", "Problem Solving 🧩"]
 };
 ```
 
 <div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 💡 *"First, solve the problem. Then, write the code."* – John Johnson
 
 </div>
 
@@ -54,6 +57,7 @@ const devbharu = {
 
 <div align="center">
 
+### Frontend Development
 <table>
 <tr>
     <td align="center" width="90">
@@ -70,8 +74,18 @@ const devbharu = {
     </td>
     <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React" />
-        <br>React
+        <br>React.js
     </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
+        <br>Tailwind
+    </td>
+</tr>
+</table>
+
+### Backend & Databases
+<table>
+<tr>
     <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
         <br>Node.js
@@ -84,24 +98,38 @@ const devbharu = {
         <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
         <br>MongoDB
     </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
+        <br>Python
+    </td>
 </tr>
+</table>
+
+### Programming Languages & DSA
+<table>
 <tr>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=c" width="45" height="45" alt="C" />
+        <br>C
+    </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="C++" />
+        <br>C++
+    </td>
     <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python" />
         <br>Python
     </td>
     <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
-        <br>Java
+        <img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript" />
+        <br>JavaScript
     </td>
-    <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
-        <br>MySQL
-    </td>
-    <td align="center" width="90">
-        <img src="https://skillicons.dev/icons?i=postgresql" width="45" height="45" alt="PostgreSQL" />
-        <br>PostgreSQL
-    </td>
+</tr>
+</table>
+
+### DevOps & Tools
+<table>
+<tr>
     <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
         <br>Docker
@@ -111,8 +139,16 @@ const devbharu = {
         <br>Git
     </td>
     <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub" />
+        <br>GitHub
+    </td>
+    <td align="center" width="90">
         <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code" />
         <br>VS Code
+    </td>
+    <td align="center" width="90">
+        <img src="https://skillicons.dev/icons?i=postman" width="45" height="45" alt="Postman" />
+        <br>Postman
     </td>
 </tr>
 </table>
@@ -130,7 +166,6 @@ const devbharu = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbharu&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=devbharu&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Activity Graph" />
 </div>
 
 ---
@@ -153,29 +188,58 @@ const devbharu = {
 mindmap
   root((devbharu))
     Learning
+      DevOps Tools
       System Design
-      Cloud Architecture
-      Microservices
+      Advanced DSA
     Building
+      Brianly Platform
+      Notion Clone
       Web Apps
-      APIs
-      Open Source
-    Exploring
-      AI/ML
-      DevOps
-      New Tech
+    Mastering
+      React.js
+      Node.js
+      C++ DSA
 ```
 
 </div>
 
 <br>
 
-- 🔭 Currently working on **Full Stack Web Applications**
-- 🌱 Learning **System Design, Cloud Computing & Advanced DSA**
-- 👯 Open to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB, Python**
-- 📫 Reach me at **your.email@example.com** (update this!)
-- ⚡ Fun fact: **I code with a cup of ☕ every morning!**
+- 🎓 **Computer Science Student** at **SIT College**
+- 🔭 Currently working on **Full Stack Web Applications & DevOps Projects**
+- 🌱 Learning **DevOps Tools, System Design & Advanced DSA in C++**
+- 💻 Building projects like **Brianly** (Educational Platform), **Notion Clone**, and more
+- 👯 Open to collaborate on **Web Development & Open Source Projects**
+- 💬 Ask me about **React.js, Node.js, JavaScript, DSA in C++, DevOps**
+- 📫 Reach me at **your.email@example.com** (update with your email!)
+- ⚡ Fun fact: **I turn ☕ into code and bugs into features!**
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+### 🧠 Brianly - Educational Platform
+> A comprehensive educational platform built with modern web technologies
+> 
+> **Tech Stack:** React.js, Node.js, Express, MongoDB, Tailwind CSS
+
+---
+
+### 📝 Notion Clone
+> A feature-rich note-taking and productivity application
+> 
+> **Tech Stack:** React.js, Node.js, MongoDB
+
+---
+
+### ✅ Task Management Apps
+> Multiple task management and todo applications with different features
+> 
+> **Tech Stack:** React.js, JavaScript, CSS
+
+</div>
 
 ---
 
@@ -184,24 +248,24 @@ mindmap
 <div align="center">
 
 <!-- Replace 'repo-name' with your actual repository names -->
-<a href="https://github.com/devbharu/repo-name-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devbharu&repo=repo-name-1&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<a href="https://github.com/devbharu/brianly">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devbharu&repo=brianly&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 
-<a href="https://github.com/devbharu/repo-name-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devbharu&repo=repo-name-2&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<a href="https://github.com/devbharu/notion-clone">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devbharu&repo=notion-clone&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 
 </div>
 
 <div align="center">
 
-<a href="https://github.com/devbharu/repo-name-3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devbharu&repo=repo-name-3&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<a href="https://github.com/devbharu/dsa-cpp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devbharu&repo=dsa-cpp&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 
-<a href="https://github.com/devbharu/repo-name-4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devbharu&repo=repo-name-4&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<a href="https://github.com/devbharu/task-manager">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devbharu&repo=task-manager&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 
 </div>
@@ -255,12 +319,14 @@ mindmap
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile! Feel free to explore my repositories
+### 💙 Thanks for visiting my profile! Let's build something amazing together!
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 
 <br>
 
 **⭐ If you like my work, consider giving a star to my repos! ⭐**
+
+**🤝 Open to collaborations and learning opportunities! 🤝**
 
 </div>
