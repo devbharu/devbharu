@@ -128,13 +128,8 @@ A student developer passionate about building modern web applications and explor
 
 ---
 
-## Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
+## Quote
+<div align="center"> <span style="font-size: 54px; font-weight: 800;"> An object stays as it is — until and unless an external force acts on it. </span> <br> <span style="font-size: 20px; font-weight: 600;"> — Newton’s First Law </span> </div>
 
 ---
 
