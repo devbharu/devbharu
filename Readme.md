@@ -76,12 +76,12 @@ const bharu = {
 </div>
 
 ---
-
 ## 🎯 What I'm Up To
 
 <div align="center">
 
 ```mermaid
+%%{init: {'theme':'base', 'themeVariables': { 'primaryColor':'#1e293b','primaryTextColor':'#fff','primaryBorderColor':'#00D9FF','lineColor':'#00D9FF','secondaryColor':'#334155','tertiaryColor':'#475569'}}}%%
 mindmap
   root((devbharu))
     Learning
@@ -113,8 +113,6 @@ mindmap
 - 👯 Open to collaborations on web development projects
 - 💬 Ask me about React, Node.js, JavaScript, DSA, or DevOps
 - ⚡ Constantly exploring new technologies and best practices
-
----
 
 ## 🚀 Featured Projects
 
