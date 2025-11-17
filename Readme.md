@@ -27,13 +27,6 @@ const bharu = {
 
 A student developer passionate about building modern web applications and exploring backend technologies. Currently focused on full-stack development with Node.js, learning data structures & algorithms, AI/ML, and sharing my journey through content creation.
 
-- 🔭 Working on Full Stack Web Applications
-- 🌱 Learning Data Structures & Algorithms and AI
-- 🎯 Exploring Backend Development with Node.js
-- 📹 Creating Tech Content to share my journey
-- 💬 Ask me about React, Node.js, or anything tech
-- 🤝 Open to collaborations and opportunities
-
 ---
 
 ## Connect With Me
@@ -164,6 +157,6 @@ Internships | Freelance Projects | Open Source Collaborations | Mentorship
 
 <div align="center">
 
-**Made with dedication and lots of coffee | Happy Coding!**
+**Made with dedication and lots of love ❤️ | Happy Coding!**
 
 </div>
