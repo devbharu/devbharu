@@ -79,43 +79,51 @@ const bharu = {
 
 ## 🎯 What I'm Up To
 
-```yaml
-🎓 Education: Computer Science @ SIT College
-🔭 Currently: Building full-stack web applications with React & Node.js
-🌱 Learning: DevOps tools, System Design & Advanced DSA in C++
-💻 Projects: Brianly (educational platform) & Notion Clone
-👯 Open to: Collaborations on web development projects
-💬 Ask me: React, Node.js, JavaScript, DSA, or DevOps
-⚡ Always: Exploring new technologies and best practices
-```
+- 🎓 Pursuing Computer Science at SIT College
+- 🔭 Building full-stack web applications with React & Node.js
+- 🌱 Learning DevOps tools, System Design & Advanced DSA in C++
+- 💡 Working on projects like Brianly (educational platform) & Notion Clone
+- 👯 Open to collaborations on web development projects
+- 💬 Ask me about React, Node.js, JavaScript, DSA, or DevOps
+- ⚡ Constantly exploring new technologies and best practices
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 🧠 Brianly - Educational Platform
+> A comprehensive educational platform designed to enhance learning experiences with interactive features and modern UI.
 
-<a href="https://github.com/devbharu/brianly">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devbharu&repo=brianly&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
+**Tech Stack:** `React.js` `Node.js` `Express` `MongoDB` `Tailwind CSS`
 
-<a href="https://github.com/devbharu/notion-clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devbharu&repo=notion-clone&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
+[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devbharu/brianly)
 
-</div>
+---
 
-<div align="center">
+### 📝 Notion Clone - Productivity App
+> Feature-rich note-taking and productivity application with real-time collaboration capabilities.
 
-<a href="https://github.com/devbharu/task-manager">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devbharu&repo=task-manager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
+**Tech Stack:** `React.js` `Node.js` `MongoDB` `CSS3`
 
-<a href="https://github.com/devbharu/dsa-cpp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=devbharu&repo=dsa-cpp&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
+[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devbharu/notion-clone)
 
-</div>
+---
+
+### ✅ Task Management System
+> Modern task management application with intuitive UI and efficient task tracking features.
+
+**Tech Stack:** `React.js` `JavaScript` `CSS3` `Local Storage`
+
+[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devbharu/task-manager)
+
+---
+
+### 🧮 DSA in C++
+> Implementation of various data structures and algorithms with optimized solutions and detailed explanations.
+
+**Tech Stack:** `C++` `Algorithms` `Problem Solving`
+
+[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devbharu/dsa-cpp)
 
 ---
 
