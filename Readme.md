@@ -79,6 +79,33 @@ const bharu = {
 
 ## 🎯 What I'm Up To
 
+<div align="center">
+
+```mermaid
+mindmap
+  root((devbharu))
+    Learning
+      DevOps Tools
+      System Design
+      Advanced DSA
+    Building
+      Brianly Platform
+      Notion Clone
+      Web Apps
+    Mastering
+      React.js
+      Node.js
+      C++ DSA
+    Exploring
+      Cloud Computing
+      Docker
+      CI/CD
+```
+
+</div>
+
+<br>
+
 - 🎓 Pursuing Computer Science at SIT College
 - 🔭 Building full-stack web applications with React & Node.js
 - 🌱 Learning DevOps tools, System Design & Advanced DSA in C++
@@ -96,7 +123,7 @@ const bharu = {
 
 **Tech Stack:** `React.js` `Node.js` `Express` `MongoDB` `Tailwind CSS`
 
-[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devbharu/brianly)
+[![View Project](https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devbharu/brianly)
 
 ---
 
@@ -105,7 +132,7 @@ const bharu = {
 
 **Tech Stack:** `React.js` `Node.js` `MongoDB` `CSS3`
 
-[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devbharu/notion-clone)
+[![View Project](https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devbharu/notion-clone)
 
 ---
 
@@ -114,7 +141,7 @@ const bharu = {
 
 **Tech Stack:** `React.js` `JavaScript` `CSS3` `Local Storage`
 
-[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devbharu/task-manager)
+[![View Project](https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devbharu/task-manager)
 
 ---
 
@@ -123,7 +150,7 @@ const bharu = {
 
 **Tech Stack:** `C++` `Algorithms` `Problem Solving`
 
-[![View Project](https://img.shields.io/badge/View_Project-00D9FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devbharu/dsa-cpp)
+[![View Project](https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devbharu/dsa-cpp)
 
 ---
 
@@ -144,7 +171,7 @@ const bharu = {
 
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=devbharu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+![](https://github-profile-trophy.vercel.app/?username=devbharu&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)
 
 </div>
 
