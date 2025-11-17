@@ -76,6 +76,7 @@ const bharu = {
 </div>
 
 ---
+
 ## 🎯 What I'm Up To
 
 <div align="center">
@@ -114,41 +115,56 @@ mindmap
 - 💬 Ask me about React, Node.js, JavaScript, DSA, or DevOps
 - ⚡ Constantly exploring new technologies and best practices
 
+---
+
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
+
 ### 🧠 Brianly - Educational Platform
-> A comprehensive educational platform designed to enhance learning experiences with interactive features and modern UI.
+A comprehensive educational platform designed to enhance learning experiences with interactive features and modern UI.
 
 **Tech Stack:** `React.js` `Node.js` `Express` `MongoDB` `Tailwind CSS`
 
 [![View Project](https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devbharu/brianly)
 
----
+</td>
+<td width="50%">
 
 ### 📝 Notion Clone - Productivity App
-> Feature-rich note-taking and productivity application with real-time collaboration capabilities.
+Feature-rich note-taking and productivity application with real-time collaboration capabilities.
 
 **Tech Stack:** `React.js` `Node.js` `MongoDB` `CSS3`
 
 [![View Project](https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devbharu/notion-clone)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
 ### ✅ Task Management System
-> Modern task management application with intuitive UI and efficient task tracking features.
+Modern task management application with intuitive UI and efficient task tracking features.
 
 **Tech Stack:** `React.js` `JavaScript` `CSS3` `Local Storage`
 
 [![View Project](https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devbharu/task-manager)
 
----
+</td>
+<td width="50%">
 
 ### 🧮 DSA in C++
-> Implementation of various data structures and algorithms with optimized solutions and detailed explanations.
+Implementation of various data structures and algorithms with optimized solutions and detailed explanations.
 
 **Tech Stack:** `C++` `Algorithms` `Problem Solving`
 
 [![View Project](https://img.shields.io/badge/View_Project-007ACC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devbharu/dsa-cpp)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -161,6 +177,7 @@ mindmap
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbharu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=6" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=devbharu&limit=4&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Contributions" />
 </div>
 
 ---
@@ -175,7 +192,17 @@ mindmap
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/devbharu/devbharu/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
   
