@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Bharu! 👋
+# Hi there, I'm Bharath! 👋
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&repeat=true&width=600&lines=Student+Developer;Full+Stack+Enthusiast;AI+%26+DSA+Learner;Content+Creator" alt="Typing SVG" />
 
